@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "TechFix Pro Laptop 15",
+    "category": "Laptop",
+    "condition": "New",
+    "price": 999.99,
+    "description": "Powerful 15-inch laptop with Intel i7, 16GB RAM, 512GB SSD.",
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Refurbished Ultra PC",
+    "category": "PC",
+    "condition": "Used",
+    "price": 499.0,
+    "description": "Compact desktop with Ryzen 5, 16GB RAM, GTX 1660 Super.",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard RGB",
+    "category": "Accessories",
+    "condition": "New",
+    "price": 89.99,
+    "description": "Tactile switches, per-key RGB, aluminum frame.",
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "1TB NVMe SSD",
+    "category": "Components",
+    "condition": "New",
+    "price": 79.99,
+    "description": "Gen4 NVMe SSD with blazing fast speeds.",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop"
+  }
+]
